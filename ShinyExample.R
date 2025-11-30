@@ -6,8 +6,6 @@
 library(shiny)
 library(data.table)
 
-options(scipen = 999)
-
 
 # ---- UI ----
 ui <- fluidPage(
